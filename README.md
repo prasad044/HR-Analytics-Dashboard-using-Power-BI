@@ -1,5 +1,7 @@
 # HR-Analytics-Dashboard-using-Power-BI
 
+![image](https://github.com/prasad044/HR-Analytics-Dashboard-using-Power-BI/blob/main/gif%20file.gif?raw=true)
+
 ## Objective:
 The goal of this project is to develop an HR analytics dashboard that will assist a company in increasing employee performance and decreasing attrition. Utilizing the dashboard's insightful employee data will help you make data-driven decisions and increase staff retention and happiness.
 
